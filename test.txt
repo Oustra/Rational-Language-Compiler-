@@ -1,0 +1,6 @@
+float a;
+float b;
+float c;
+a = 5/9;
+b = (5/3)**2;
+c = a + b;
